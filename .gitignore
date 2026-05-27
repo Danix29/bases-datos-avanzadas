@@ -1,0 +1,24 @@
+# Generated data files (large CSVs — do not commit)
+*.csv
+datos_estudiantes.csv
+grupos.csv
+musicos.csv
+conciertos.csv
+discos.csv
+canciones.csv
+entradas.csv
+grupos_conciertos.csv
+
+# PostgreSQL logs / data dirs
+*.log
+pg_log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
