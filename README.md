@@ -51,9 +51,11 @@ Advanced PostgreSQL internals: physical storage, indexing structures, partitioni
 ```
 bases-datos-avanzadas/
 ├── pl1-almacenamiento/
+│   ├── PL1-BDA_2025-26.pdf   # Practice guide (27 questions)
 │   ├── Int_Datos.py          # Generates 30 M-row estudiantes CSV
 │   └── Consulta1.sql         # DDL + COPY + ANALYZE for estudiantes
 └── pl2-carga-masiva/
+    ├── PECL2-BDA_2025-26.pdf # Practice guide (15 questions)
     └── CSVMusicos.py         # Generates all 7 MUSICOS CSVs
                               #   grupos (200K), musicos (1M), conciertos (100K),
                               #   discos (1M), canciones (12M),
